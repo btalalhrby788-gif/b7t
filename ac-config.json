@@ -1,7 +1,7 @@
 {
   "id": 1,
   "maintenance": true,
-  "autoBan": true,
+  "autoBan": false,
   "eventProtection": true,
   "speedCheck": true,
   "godmodeCheck": true,
@@ -20,5 +20,6 @@
   "bannedWeapons": [],
   "bannedCommands": [],
   "trustedResources": [],
-  "createdAt": "2026-06-18T02:12:42.032Z"
+  "createdAt": "2026-06-18T02:12:42.032Z",
+  "updatedAt": "2026-06-18T02:14:00.821Z"
 }
