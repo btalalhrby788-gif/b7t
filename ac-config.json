@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "maintenance": true,
+  "maintenance": false,
   "autoBan": true,
   "eventProtection": true,
   "speedCheck": true,
@@ -21,5 +21,5 @@
   "bannedCommands": [],
   "trustedResources": [],
   "createdAt": "2026-06-18T04:11:02.513Z",
-  "updatedAt": "2026-06-18T04:36:31.616Z"
+  "updatedAt": "2026-06-18T04:36:32.182Z"
 }
